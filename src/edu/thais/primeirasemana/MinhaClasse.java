@@ -1,3 +1,6 @@
+package edu.thais.primeirasemana;
+
+
 public class MinhaClasse {
     public static void main(String[] args){
         String primeiroNome = "Thais";
@@ -12,3 +15,11 @@ public class MinhaClasse {
 
     }
 }
+
+
+//com - comercial
+//org - organização
+//opensource - opensource
+
+
+//com.hypertech.notification.app(pacote, model, util, service..)
